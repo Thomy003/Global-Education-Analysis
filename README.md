@@ -14,6 +14,11 @@ All the information about the dataset can be obtained in /link(https://www.kaggl
 
 ### DataSets
 * The first dataset "share-of-the-world-population-with-at-least-basic-education" contains information about the share of adult population (older than 15) who has received some basic education.
+* The second dataset "learning-adjusted-years-of-school" contains information about the adjusted years of education. This is not the total number of years that a children spends in school, but a measure that researchers adjust for the quality of education to estimate how many years of quality learning they receive using an indicator called “learning-adjusted years of schooling”
+* The third dataset "number-of-out-of-school-children" contains information about the number of children who aren't in school across primary and secondary education. Many children who attend primary school drop out and do not attend secondary school. That means many more children or adolescents are missing from secondary school than primary education.
+* The fourth dataset "gender-gap-education-levels" contains information about the number of educational establishments enrollment by gender.
+
+
 
 
 ## ANALYSIS
