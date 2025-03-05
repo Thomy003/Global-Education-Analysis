@@ -23,3 +23,5 @@ You can find detailed information about the dataset at <a href="https://www.kagg
 
 
 ## ANALYSIS
+![image](https://github.com/user-attachments/assets/6a777036-b9aa-42f7-b325-337f504a5547)
+
