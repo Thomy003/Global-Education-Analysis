@@ -25,3 +25,9 @@ You can find detailed information about the dataset at <a href="https://www.kagg
 ## ANALYSIS
 ![image](https://github.com/user-attachments/assets/6a777036-b9aa-42f7-b325-337f504a5547)
 
+### RIBBON
+![image](https://github.com/user-attachments/assets/a8c8aee0-6bef-49e6-9ccc-ca8bc8d4d4fb)
+* At the top of the dashboard we can see a ribbon that allows users to filter all the data gathered base on continent and country for a more deep and focus research. One thing to keep in mind is that all this data from has been obtained from the <a href=https://data.worldbank.org/>World Bank Open Data</a> and there might be some missing information about some countries, due to the lack of resources to carry out the surveys, hidden information from countries, among other special reasons.
+
+
+
