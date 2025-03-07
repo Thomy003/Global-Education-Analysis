@@ -41,7 +41,8 @@ DISCLAIMER: Some inconsistencies in the data happen for the already explained re
   ![image](https://github.com/user-attachments/assets/8f90aa1c-864c-4e37-8a58-2947b95de875) ![image](https://github.com/user-attachments/assets/efcf329c-dec3-45ec-98ca-546d4fb6017f)
 
 * The pie chart below, represents the percentage of Adult people (+15 years old) with some basic education in 2020, we can also see a similar trend where rich countries with high LAYS have bigger rates of population with basic education. Nevertheless, in recent years the amount of people with basic education is about 9 of 10 people, which has been a great increase compared to past results where only 1 out of 5 could get basic education.
-(Add image) page 4
+![image](https://github.com/user-attachments/assets/836a4eac-2206-4d1b-9e24-4590f90f135f)
+
 
 * To the right we have a line chart showing the amount of out of school students by gender from 2000 to 2020, we can see that there has been a decresed in the total number of out of school students closign the gap between males and females. One interesting fact is that in 2013 there is a peak on the amount of out of school students, because India's report on this matter has been meassured only once in 2013, hence without India the 2013 peak would get smoother. The same happens when looking at some continents such as Oceania where Papua New Guinea has registed out of school students once on 2016.
 
