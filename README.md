@@ -1,5 +1,4 @@
 # 🌍 **Global Education Dashboard Analysis**  
----
 <br><br>
 
 ## INTRODUCTION
@@ -38,13 +37,16 @@ You can find the detailed information about the dataset at <a href="https://www.
 
 ### Ribbon Filter
 ![image](https://github.com/user-attachments/assets/a8c8aee0-6bef-49e6-9ccc-ca8bc8d4d4fb)
-At the top of the dashboard, a ribbon filter allows users to refine the data by continent and country for a more detailed and focused analysis. The data has been sourced from World Bank Open Data, but some countries may have missing data due to resource constraints, government restrictions, or other factors.
+At the top of the dashboard, a ribbon filter allows users to **refine the data by continent and country** for a more detailed and focused analysis. While the data is comprehensive, some countries may have missing data due to:  
+- **Resource constraints** 📉  
+- **Government restrictions** 🚫  
+- **Other external factors** 🌐
 <br><br>
 
-### First Section
-Below the ribbon, the first section provides key insights into global education trends through essential KPIs and visualizations. It highlights the distribution and accessibility of education worldwide (or in selected regions based on applied filters). The metrics showcase adjusted years of schooling, adult education levels, out-of-school students, and enrollment trends across different education levels, offering a clear picture of progress and challenges in education over time.
+### 📌 First Section
+Below the ribbon, the first section provides **key insights into global education trends through essential KPIs and visualizations**. It highlights the **distribution and accessibility of education** worldwide (or in selected regions based on applied filters). The metrics showcase adjusted years of schooling, adult education levels, out-of-school students, and enrollment trends across different education levels, offering a clear picture of progress and challenges in education over time.
 
-DISCLAIMER: Some inconsistencies in the data happen for the already explained reasons of countries not showing or taking part of the surveys to get Educational information.
+**DISCLAIMER**: Some inconsistencies in the data occur due to the reasons mentioned above.
 
 ![image](https://github.com/user-attachments/assets/03436e8f-df5d-4e86-85e6-4c0465d48955)
 
@@ -67,8 +69,8 @@ Many children who attend primary school drop out and do not attend secondary sch
 <br><br>
 
 
-### Second Section
-This section focuses on enrollment trends across primary, secondary, and tertiary education, analyzing gender and income disparities, where users can analyze how enrollment rates have evolved over time, comparing male and female participation as well as variations across different income levels. These insights help highlight progress in educational access and persistent gaps that still need to be addressed. 
+### 📌 Second Section
+This section focuses on **enrollment trends across primary, secondary, and tertiary education, analyzing gender and income disparities**, where users can analyze how enrollment rates have evolved over time, comparing male and female participation as well as variations across different income levels. These insights help highlight progress in educational access and persistent gaps that still need to be addressed. 
 DISCALIMER: The income filter does not filter income in an specific region or country, it takes all countries in account for the disparity in income, so the income groups countries in their overall income.
 
 ![image](https://github.com/user-attachments/assets/ad251b13-9ca3-4829-96e1-836ffff3af07)
@@ -79,8 +81,8 @@ DISCALIMER: The income filter does not filter income in an specific region or co
 <br><br>
 
 
-### Third Section
-This section examines the distribution of basic education among adults (15+) across different regions. By tracking historical trends, it highlights disparities in educational attainment worldwide, showcasing regions that have made significant progress and those still facing challenges. These insights provide a broader perspective on long-term access to education and its regional variations.
+### 📌 Third Section
+This section examines the **distribution of basic education among adults (15+) across different regions**. By tracking historical trends, it highlights disparities in educational attainment worldwide, showcasing regions that have made significant progress and those still facing challenges. These insights provide a broader perspective on long-term access to education and its regional variations.
 
 ![image](https://github.com/user-attachments/assets/445c1958-4627-4e05-a159-dd15f2420890)
 
