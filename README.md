@@ -1,7 +1,4 @@
-# 🌍 **Global Education Dashboard Analysis**  
-
-Welcome to the **Global Education Dashboard Analysis**! This report dives into the state of education worldwide, highlighting **key trends**, **disparities**, and **progress over time**. Using data from the **World Bank Open Data**, we explore metrics like **Learning Adjusted Years of Schooling (LAYS)**, **adult education levels**, **out-of-school rates**, and **enrollment trends** across primary, secondary, and tertiary education levels. Let’s get started! 📊  
-
+🌍 **Global Education Dashboard Analysis**  
 ---
 
 ## INTRODUCTION
@@ -11,7 +8,7 @@ Over the centuries, education has evolved significantly. What was once a privile
 
 In many low-income countries, a large percentage of students complete primary school without acquiring fundamental literacy and numeracy skills. This educational deficiency limits their potential and perpetuates cycles of poverty. Addressing these disparities is crucial to ensuring that education serves as a powerful tool for positive change.
 
-On the following analysis we will emerge into a deeper analysis of Global Education, so get ready for the journey 🚀.
+On the following analysis we will emerge into a deeper analysis of Global Education, so get ready for the journey 🚀📊.
 <br><br>
 <br><br>
 
