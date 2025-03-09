@@ -1,5 +1,6 @@
-🌍 **Global Education Dashboard Analysis**  
+# 🌍 **Global Education Dashboard Analysis**  
 ---
+<br><br>
 
 ## INTRODUCTION
 Education is a fundamental right that everyone should have access to. It enables individuals to build their futures, achieve their goals, and connect with the world. However, many people, particularly in low-income regions and among certain demographics, still lack access to quality education. These disparities, based on income and even gender, prevent progress toward a more equitable education system.
