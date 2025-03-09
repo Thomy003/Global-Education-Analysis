@@ -32,18 +32,17 @@ You can find the detailed information about the dataset at <a href="https://www.
 <br><br>
  
 ## ANALYSIS
-<div style="text-align:center">
-  <img src="https://github.com/user-attachments/assets/6a777036-b9aa-42f7-b325-337f504a5547" alt="Ribbon Filter" style="width:50%;">
-</div>
-<br><br>
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6a777036-b9aa-42f7-b325-337f504a5547" alt="Ribbon Filter" style="width:50%;">
 </div>
 <br><br>
 
 ### Ribbon Filter
-![image](https://github.com/user-attachments/assets/a8c8aee0-6bef-49e6-9ccc-ca8bc8d4d4fb)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a8c8aee0-6bef-49e6-9ccc-ca8bc8d4d4fb)" alt="Ribbon Filter" style="width:50%;">
+</div>
+<br><br>
+
 At the top of the dashboard, a ribbon filter allows users to **refine the data by continent and country** for a more detailed and focused analysis. While the data is comprehensive, some countries may have missing data due to:  
 - **Resource constraints** 📉  
 - **Government restrictions** 🚫  
@@ -55,17 +54,24 @@ Below the ribbon, the first section provides **key insights into global educatio
 
 **DISCLAIMER**: Some inconsistencies in the data occur due to the reasons mentioned above.
 
-![image](https://github.com/user-attachments/assets/03436e8f-df5d-4e86-85e6-4c0465d48955)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/03436e8f-df5d-4e86-85e6-4c0465d48955" alt="Ribbon Filter" style="width:50%;">
+</div>
 
 
 * The top KPI shows the Learning Adjusted Years of School (LAYS) during 2020, a measure that combines the quantity and quality of education across countries, in which there is a trend where poor or less developed countries have lower LAYS, between 2 and 6 points, whereas richer and more developed countries have LAYS above 10 points. For example, the bottom countries with less AYS points are Liberia (2.2), followed by South Sudan (2.5), Mali (2.6), Central African Republic, Niger (2.7) and Chad (2.8). On the other hand the top countries are Singapore (12.8), followed by Hong Kong (11.9), Canada, Estonia, Finland, Japan and South Korea (11.7). Across most countries in South Asia and Sub-Saharan Africa – where the largest share of children live – the average years of quality schooling are less than 7.
-  
-![image](https://github.com/user-attachments/assets/8f90aa1c-864c-4e37-8a58-2947b95de875) ![image](https://github.com/user-attachments/assets/efcf329c-dec3-45ec-98ca-546d4fb6017f)
+
+<div>
+  <img src="https://github.com/user-attachments/assets/8f90aa1c-864c-4e37-8a58-2947b95de875" alt="Ribbon Filter" style="width:50%;">
+  <img src="https://github.com/user-attachments/assets/efcf329c-dec3-45ec-98ca-546d4fb6017f" alt="Ribbon Filter" style="width:50%;">
+</div>
 
 
 * The pie chart below, represents the percentage of Adult people (+15 years old) with some basic education in 2020, we can also see a similar trend where rich countries with high LAYS have bigger rates of population with basic education. Nevertheless, in recent years the amount of people with basic education is about 9 of 10 people, which has been a great increase compared to past results where only 1 out of 5 could get basic education.
-  
-![image](https://github.com/user-attachments/assets/836a4eac-2206-4d1b-9e24-4590f90f135f)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/836a4eac-2206-4d1b-9e24-4590f90f135f" alt="Ribbon Filter" style="width:50%;">
+</div>
 
 
 * To the right we have a line chart showing the amount of out of school students by gender from 2000 to 2020, we can see that there has been a decresed in the total number of out of school students closign the gap between males and females. One interesting fact is that in 2013 there is a peak on the amount of out of school students, because India's report on this matter has been meassured only once in 2013, hence without India the 2013 peak would get smoother. The same happens when looking at some continents such as Oceania where Papua New Guinea has registed out of school students once on 2016.
@@ -80,7 +86,10 @@ Many children who attend primary school drop out and do not attend secondary sch
 This section focuses on **enrollment trends across primary, secondary, and tertiary education, analyzing gender and income disparities**, where users can analyze how enrollment rates have evolved over time, comparing male and female participation as well as variations across different income levels. These insights help highlight progress in educational access and persistent gaps that still need to be addressed. 
 DISCALIMER: The income filter does not filter income in an specific region or country, it takes all countries in account for the disparity in income, so the income groups countries in their overall income.
 
-![image](https://github.com/user-attachments/assets/ad251b13-9ca3-4829-96e1-836ffff3af07)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ad251b13-9ca3-4829-96e1-836ffff3af07" alt="Ribbon Filter" style="width:75%;">
+</div>
+
 
 * The first (left) chart of this section shows the ratio of enrolments in the 3 education levels, the main interesting fact that aroses from this visualization is how the gap between females and males have been closing over the years, before males have ease at enrolling for education, now it is quite similar, except for tertiary level where we can see an overcome of females enrolled for education, this might represent that females get higger levels of education than males, this trend is due to a number of factors, including academic preparation, personal choices, and social factors, one of the main reasons is that most men start working, leaving their education in a background plane, <a href ="https://www.pewresearch.org/short-reads/2021/11/08/whats-behind-the-growing-gap-between-men-and-women-in-college-completion/"> "Non-college-educated men are also more likely than their female counterparts to say a major reason they don’t have a four-year degree is that they didn’t need more education for the job or career they wanted (26% of men say this vs. 20% of women)." </a>. Other interesting articles related to these could be found here: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.3109">Do women only apply when they are 100% qualified, whereas men already apply when they are 60% qualified?</a>.
 
@@ -91,7 +100,10 @@ DISCALIMER: The income filter does not filter income in an specific region or co
 ### 📌 Third Section
 This section examines the **distribution of basic education among adults (15+) across different regions**. By tracking historical trends, it highlights disparities in educational attainment worldwide, showcasing regions that have made significant progress and those still facing challenges. These insights provide a broader perspective on long-term access to education and its regional variations.
 
-![image](https://github.com/user-attachments/assets/445c1958-4627-4e05-a159-dd15f2420890)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/445c1958-4627-4e05-a159-dd15f2420890" alt="Ribbon Filter" style="width:75%;">
+</div>
+
 
 The regions given are from the <a href="https://pbs.twimg.com/media/DoIqABUXgAAj9Tx?format=jpg&name=4096x4096"> World Regions according to Maddison, 2010 </a>.
 
