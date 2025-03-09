@@ -37,13 +37,7 @@ You can find the detailed information about the dataset at <a href="https://www.
 </div>
 <br><br>
 
-<div style="text-align:center">
-  ![Ribbon Filter](https://github.com/user-attachments/assets/6a777036-b9aa-42f7-b325-337f504a5547){width=50%}
-</div>
-<br><br>
 
-![image](https://github.com/user-attachments/assets/6a777036-b9aa-42f7-b325-337f504a5547)
-<br><br>
 
 ### Ribbon Filter
 ![image](https://github.com/user-attachments/assets/a8c8aee0-6bef-49e6-9ccc-ca8bc8d4d4fb)
