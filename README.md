@@ -21,13 +21,13 @@ You can find the detailed information about the dataset at <a href="https://www.
 <br><br> 
  
 ## DATASETS
-🏫 Share of the World Population with at Least Basic Education - This dataset contains information about the share of adult population (older than 15) that has received at least basic education (primary and lower secondary education). 
+**🏫 Share of the World Population with at Least Basic Education -** This dataset contains information about the share of adult population (older than 15) that has received at least basic education (primary and lower secondary education). 
 
-🧑‍🏫 Learning-Adjusted Years of Schooling - This dataset measures the number of years of schooling adjusted for education quality, providing an estimate of actual years of effective learning.
+**🧑‍🏫 Learning-Adjusted Years of Schooling -** This dataset measures the number of years of schooling adjusted for education quality, providing an estimate of actual years of effective learning.
 
-🎒 Number of Out-of-School Children - This dataset reports the number of children who are not enrolled in primary or secondary education, highlighting dropout rates and enrollment gaps. 
+**🎒 Number of Out-of-School Children -** This dataset reports the number of children who are not enrolled in primary or secondary education, highlighting dropout rates and enrollment gaps. 
 
-👨‍🤝‍👩 Gender Gap in Education Levels - This dataset tracks enrollment across different education levels based on gender.
+**👨‍🤝‍👩 Gender Gap in Education Levels -** This dataset tracks enrollment across different education levels based on gender.
 <br><br>
 <br><br>
  
@@ -37,7 +37,10 @@ You can find the detailed information about the dataset at <a href="https://www.
 </div>
 <br><br>
 
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6a777036-b9aa-42f7-b325-337f504a5547" alt="Ribbon Filter" style="width:50%;">
+</div>
+<br><br>
 
 ### Ribbon Filter
 ![image](https://github.com/user-attachments/assets/a8c8aee0-6bef-49e6-9ccc-ca8bc8d4d4fb)
