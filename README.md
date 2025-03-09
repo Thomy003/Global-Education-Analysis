@@ -38,11 +38,8 @@ You can find the detailed information about the dataset at <a href="https://www.
 <br><br>
 
 ### Ribbon Filter
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a8c8aee0-6bef-49e6-9ccc-ca8bc8d4d4fb)" alt="Ribbon Filter" style="width:50%;">
-</div>
-<br><br>
 ![image](https://github.com/user-attachments/assets/a8c8aee0-6bef-49e6-9ccc-ca8bc8d4d4fb)
+<br><br>
 
 At the top of the dashboard, a ribbon filter allows users to **refine the data by continent and country** for a more detailed and focused analysis. While the data is comprehensive, some countries may have missing data due to:  
 - **Resource constraints** 📉  
@@ -62,7 +59,10 @@ Below the ribbon, the first section provides **key insights into global educatio
 
 * The top KPI shows the Learning Adjusted Years of School (LAYS) during 2020, a measure that combines the quantity and quality of education across countries, in which there is a trend where poor or less developed countries have lower LAYS, between 2 and 6 points, whereas richer and more developed countries have LAYS above 10 points. For example, the bottom countries with less AYS points are Liberia (2.2), followed by South Sudan (2.5), Mali (2.6), Central African Republic, Niger (2.7) and Chad (2.8). On the other hand the top countries are Singapore (12.8), followed by Hong Kong (11.9), Canada, Estonia, Finland, Japan and South Korea (11.7). Across most countries in South Asia and Sub-Saharan Africa – where the largest share of children live – the average years of quality schooling are less than 7.
 
-![image](https://github.com/user-attachments/assets/8f90aa1c-864c-4e37-8a58-2947b95de875) ![image](https://github.com/user-attachments/assets/efcf329c-dec3-45ec-98ca-546d4fb6017f)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8f90aa1c-864c-4e37-8a58-2947b95de875" alt="Ribbon Filter">
+  <img src="https://github.com/user-attachments/assets/efcf329c-dec3-45ec-98ca-546d4fb6017f" alt="Ribbon Filter">
+</div>
 
 
 * The pie chart below, represents the percentage of Adult people (+15 years old) with some basic education in 2020, we can also see a similar trend where rich countries with high LAYS have bigger rates of population with basic education. Nevertheless, in recent years the amount of people with basic education is about 9 of 10 people, which has been a great increase compared to past results where only 1 out of 5 could get basic education.
