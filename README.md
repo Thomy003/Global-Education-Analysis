@@ -30,7 +30,7 @@ You can find the detailed information about the dataset at <a href="https://www.
 <br><br>
  
 ## ANALYSIS
-![image]([your-image-url.png](https://github.com/user-attachments/assets/6a777036-b9aa-42f7-b325-337f504a5547))
+![image](https://github.com/user-attachments/assets/6a777036-b9aa-42f7-b325-337f504a5547)
 <br><br>
 
 ### Ribbon Filter
