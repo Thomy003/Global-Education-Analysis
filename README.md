@@ -1,24 +1,27 @@
 # Global-Education-Analysis
 
 ## INTRODUCTION
-Education is a basic right that everyone should have. It helps people build their futures, achieve their goals, and connect with the world. Yet, many people still do not have access to quality education, especially in low-income areas and among certain groups. These gaps in education, based on income and gender, prevent progress toward a fair education system for all.
+Education is a fundamental right that everyone should have access to. It enables individuals to build their futures, achieve their goals, and connect with the world. However, many people, particularly in low-income regions and among certain demographics, still lack access to quality education. These disparities, based on income and even gender, prevent progress toward a more equitable education system.
 
-Over the past few centuries, education has changed dramatically. What once was available to only a few is now recognized as essential for most people. We see this change in the rising number of students enrolling in schools and the increase in literacy rates worldwide. However, getting children into schools is not enough; the quality of their education is just as important.
+Over the centuries, education has evolved significantly. What was once a privilege reserved for the few is now considered essential for most. This shift is evident in the increasing number of students enrolling in schools and rising global literacy rates. However, mere enrollment is not enough; the quality of education matters just as much.
 
-In many low-income countries, many children finish primary school without being able to read or write well. This lack of education limits their potential and keeps poverty in place, deepening gaps in global income. To create a better and fairer future, we must address these education gaps and make sure that education can be a powerful tool for change.
+In many low-income countries, a large percentage of students complete primary school without acquiring fundamental literacy and numeracy skills. This educational deficiency limits their potential and perpetuates cycles of poverty. Addressing these disparities is crucial to ensuring that education serves as a powerful tool for positive change.
+
+On the following analysis we will emerge into a deeper analysis of Global Education, so get ready for the journey 🚀.
+
 
 
 ## OBJECTIVE
-The objective of this analysis is to examine a dataset containing global education information. Aiming to gain insights into how well the current systems are providing access to education for everyone. By doing so, we will explore the state of education worldwide and identify areas for improvement. 
+The objective of this analysis is to examine a dataset containing global education information. The goal is to gain insights into how well current education systems provide access to learning opportunities for all. This analysis will help identify areas for improvement and better understand the global state of education.
 
 You can find detailed information about the dataset at <a href="https://www.kaggle.com/datasets/imtkaggleteam/global-education">Kaggle</a> and <a href="https://databrowser.uis.unesco.org/">Unesco</a>.
 
 
-### DataSets
-* The first dataset "share-of-the-world-population-with-at-least-basic-education" contains information about the share of adult population (older than 15) who has received some basic education (comprises primary education and lower secondary education).
-* The second dataset "learning-adjusted-years-of-school" contains information about the adjusted years of education. This is not the total number of years that a children spends in school, but a measure that researchers adjust for the quality of education to estimate how many years of quality learning they receive using an indicator called “learning-adjusted years of schooling”
-* The third dataset "number-of-out-of-school-children" contains information about the number of children who aren't in school across primary and secondary education. Many children who attend primary school drop out and do not attend secondary school. That means many more children or adolescents are missing from secondary school than primary education.
-* The fourth dataset "gender-gap-education-levels" contains information about the number of educational establishments enrollment by gender.
+## DATASETS
+🏫. Share of the World Population with at Least Basic Education - This dataset contains information about the share of adult population (older than 15) that has received at least basic education (primary and lower secondary education). 
+🧑‍🏫. Learning-Adjusted Years of Schooling - This dataset measures the number of years of schooling adjusted for education quality, providing an estimate of actual years of effective learning.
+🎒. Number of Out-of-School Children - This dataset reports the number of children who are not enrolled in primary or secondary education, highlighting dropout rates and enrollment gaps. 
+👨‍🤝‍👩. Gender Gap in Education Levels: This dataset tracks enrollment across different education levels based on gender.
 
 
 
@@ -45,6 +48,7 @@ DISCLAIMER: Some inconsistencies in the data happen for the already explained re
 
 
 * To the right we have a line chart showing the amount of out of school students by gender from 2000 to 2020, we can see that there has been a decresed in the total number of out of school students closign the gap between males and females. One interesting fact is that in 2013 there is a peak on the amount of out of school students, because India's report on this matter has been meassured only once in 2013, hence without India the 2013 peak would get smoother. The same happens when looking at some continents such as Oceania where Papua New Guinea has registed out of school students once on 2016.
+Many children who attend primary school drop out and do not attend secondary school. That means many more children or adolescents are missing from secondary school than primary education.
 
 * Finally on the right we have a line-area chart showing the enrollment of students on each education level. From this graph we can see a pattern which is that every education level has increased throughout the years, specially tertiary education that has been growing with high speed on recent years. Inconsistencies on the graph might occur when looking at specific regions, specially if throuogth the years some countries have shared data or not, making this rates vary a lot if rich or poorer countries shared their data.
 
