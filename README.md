@@ -42,6 +42,7 @@ You can find the detailed information about the dataset at <a href="https://www.
   <img src="https://github.com/user-attachments/assets/a8c8aee0-6bef-49e6-9ccc-ca8bc8d4d4fb)" alt="Ribbon Filter" style="width:50%;">
 </div>
 <br><br>
+![image](https://github.com/user-attachments/assets/a8c8aee0-6bef-49e6-9ccc-ca8bc8d4d4fb)
 
 At the top of the dashboard, a ribbon filter allows users to **refine the data by continent and country** for a more detailed and focused analysis. While the data is comprehensive, some countries may have missing data due to:  
 - **Resource constraints** 📉  
