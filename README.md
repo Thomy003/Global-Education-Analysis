@@ -20,10 +20,13 @@ You can find detailed information about the dataset at <a href="https://www.kagg
  
 ## DATASETS
 🏫. Share of the World Population with at Least Basic Education - This dataset contains information about the share of adult population (older than 15) that has received at least basic education (primary and lower secondary education). 
+
 🧑‍🏫. Learning-Adjusted Years of Schooling - This dataset measures the number of years of schooling adjusted for education quality, providing an estimate of actual years of effective learning.
+
 🎒. Number of Out-of-School Children - This dataset reports the number of children who are not enrolled in primary or secondary education, highlighting dropout rates and enrollment gaps. 
+
 👨‍🤝‍👩. Gender Gap in Education Levels: This dataset tracks enrollment across different education levels based on gender.
- 
+
  
  
 ## ANALYSIS
