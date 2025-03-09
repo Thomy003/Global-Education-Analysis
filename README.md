@@ -8,23 +8,24 @@ Over the centuries, education has evolved significantly. What was once a privile
 In many low-income countries, a large percentage of students complete primary school without acquiring fundamental literacy and numeracy skills. This educational deficiency limits their potential and perpetuates cycles of poverty. Addressing these disparities is crucial to ensuring that education serves as a powerful tool for positive change.
 
 On the following analysis we will emerge into a deeper analysis of Global Education, so get ready for the journey 🚀.
-
-
-
+ 
+ 
+ 
 ## OBJECTIVE
 The objective of this analysis is to examine a dataset containing global education information. The goal is to gain insights into how well current education systems provide access to learning opportunities for all. This analysis will help identify areas for improvement and better understand the global state of education.
 
 You can find detailed information about the dataset at <a href="https://www.kaggle.com/datasets/imtkaggleteam/global-education">Kaggle</a> and <a href="https://databrowser.uis.unesco.org/">Unesco</a>.
-
-
+ 
+ 
+ 
 ## DATASETS
 🏫. Share of the World Population with at Least Basic Education - This dataset contains information about the share of adult population (older than 15) that has received at least basic education (primary and lower secondary education). 
 🧑‍🏫. Learning-Adjusted Years of Schooling - This dataset measures the number of years of schooling adjusted for education quality, providing an estimate of actual years of effective learning.
 🎒. Number of Out-of-School Children - This dataset reports the number of children who are not enrolled in primary or secondary education, highlighting dropout rates and enrollment gaps. 
 👨‍🤝‍👩. Gender Gap in Education Levels: This dataset tracks enrollment across different education levels based on gender.
-
-
-
+ 
+ 
+ 
 ## ANALYSIS
 ![image](https://github.com/user-attachments/assets/6a777036-b9aa-42f7-b325-337f504a5547)
 
