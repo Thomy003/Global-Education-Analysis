@@ -12,6 +12,7 @@ Over the centuries, education has evolved significantly. What was once a privile
 In many low-income countries, a large percentage of students complete primary school without acquiring fundamental literacy and numeracy skills. This educational deficiency limits their potential and perpetuates cycles of poverty. Addressing these disparities is crucial to ensuring that education serves as a powerful tool for positive change.
 
 On the following analysis we will emerge into a deeper analysis of Global Education, so get ready for the journey 🚀📊.
+
 <br>
 ---
 
@@ -19,6 +20,7 @@ On the following analysis we will emerge into a deeper analysis of Global Educat
 The objective of this analysis is to examine a dataset containing global education information. The goal is to gain insights into how well current education systems provide access to learning opportunities for all. This analysis will help identify areas for improvement and better understand the global state of education.
 
 You can find the detailed information about the dataset at <a href="https://www.kaggle.com/datasets/imtkaggleteam/global-education">Kaggle</a>, which sources are <a href=https://data.worldbank.org/>World Bank Open Data</a> and <a href="https://databrowser.uis.unesco.org/">Unesco</a>.
+
 <br>
 ---
  
@@ -38,6 +40,7 @@ This dataset reports the number of children who are not enrolled in primary or s
 **👨‍🤝‍👩 Gender Gap in Education Levels** 
 
 This dataset tracks enrollment across different education levels based on gender.
+
 <br>
 ---
  
