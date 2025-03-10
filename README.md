@@ -1,6 +1,6 @@
 # 🌍 **Global Education Dashboard Analysis**  
 
-<br></br>
+<br>
 
 ---
 
@@ -51,6 +51,8 @@ This dataset tracks enrollment across different education levels based on gender
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6a777036-b9aa-42f7-b325-337f504a5547" alt="Ribbon Filter" style="width:50%;">
 </div>
+
+<br></br>
 
 ---
 
