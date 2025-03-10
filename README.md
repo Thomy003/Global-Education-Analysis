@@ -51,9 +51,10 @@ This dataset tracks enrollment across different education levels based on gender
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6a777036-b9aa-42f7-b325-337f504a5547" alt="Ribbon Filter" style="width:50%;">
 </div>
-<br><br>
 
-### Ribbon Filter
+---
+
+### **📌 Ribbon Filter**
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a8c8aee0-6bef-49e6-9ccc-ca8bc8d4d4fb" alt="Ribbon Filter" style="width:75%;">
 </div>
