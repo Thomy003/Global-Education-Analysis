@@ -1,6 +1,6 @@
 # 🌍 **Global Education Dashboard Analysis**  
 
-<br>
+<br></br>
 
 ---
 
@@ -13,7 +13,7 @@ In many low-income countries, a large percentage of students complete primary sc
 
 On the following analysis we will emerge into a deeper analysis of Global Education, so get ready for the journey 🚀📊.
 
-<br>
+<br></br>
 
 ---
 
@@ -22,7 +22,7 @@ The objective of this analysis is to examine a dataset containing global educati
 
 You can find the detailed information about the dataset at <a href="https://www.kaggle.com/datasets/imtkaggleteam/global-education">Kaggle</a>, which sources are <a href=https://data.worldbank.org/>World Bank Open Data</a> and <a href="https://databrowser.uis.unesco.org/">Unesco</a>.
 
-<br>
+<br></br>
 
 ---
  
@@ -43,7 +43,7 @@ This dataset reports the number of children who are not enrolled in primary or s
 
 This dataset tracks enrollment across different education levels based on gender.
 
-<br>
+<br></br>
 
 ---
  
@@ -84,14 +84,14 @@ Below the ribbon, the first section provides **key insights into global educatio
   <img src="https://github.com/user-attachments/assets/8f90aa1c-864c-4e37-8a58-2947b95de875" alt="Image 1" style="width:300px; height:500px; display:inline-block; margin:10px;">
   <img src="https://github.com/user-attachments/assets/efcf329c-dec3-45ec-98ca-546d4fb6017f" alt="Image 2" style="width:300px; height:500px; display:inline-block; margin:10px;">
 </div>
-<br><br>
+<br></br>
 
 - The pie chart below, represents the percentage of Adult people (+15 years old) with some basic education in 2020, we can also see a similar trend where rich countries with high LAYS have bigger rates of population with basic education. Nevertheless, in recent years the amount of people with basic education is about 9 of 10 people, which has been a great increase compared to past results where only 1 out of 5 could get basic education.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/836a4eac-2206-4d1b-9e24-4590f90f135f" alt="Ribbon Filter" style="width:50%;">
 </div>
-
+<br></br>
 
 - To the right we have a line chart showing the amount of out of school students by gender from 2000 to 2020, we can see that there has been a decresed in the total number of out of school students closign the gap between males and females. One interesting fact is that in 2013 there is a peak on the amount of out of school students, because India's report on this matter has been meassured only once in 2013, hence without India the 2013 peak would get smoother. The same happens when looking at some continents such as Oceania where Papua New Guinea has registed out of school students once on 2016.
 Many children who attend primary school drop out and do not attend secondary school. That means many more children or adolescents are missing from secondary school than primary education.
@@ -109,7 +109,7 @@ DISCALIMER: The income filter does not filter income in an specific region or co
   <img src="https://github.com/user-attachments/assets/ad251b13-9ca3-4829-96e1-836ffff3af07" alt="Ribbon Filter" style="width:75%;">
 </div>
 
-<br>
+<br></br>
 
 - The first (left) chart of this section shows the ratio of enrolments in the 3 education levels, the main interesting fact that aroses from this visualization is how the gap between females and males have been closing over the years, before males have ease at enrolling for education, now it is quite similar, except for tertiary level where we can see an overcome of females enrolled for education, this might represent that females get higger levels of education than males, this trend is due to a number of factors, including academic preparation, personal choices, and social factors, one of the main reasons is that most men start working, leaving their education in a background plane, <a href ="https://www.pewresearch.org/short-reads/2021/11/08/whats-behind-the-growing-gap-between-men-and-women-in-college-completion/"> "Non-college-educated men are also more likely than their female counterparts to say a major reason they don’t have a four-year degree is that they didn’t need more education for the job or career they wanted (26% of men say this vs. 20% of women)." </a>. Other interesting articles related to these could be found here: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.3109">Do women only apply when they are 100% qualified, whereas men already apply when they are 60% qualified?</a>.
 
@@ -124,12 +124,12 @@ The regions given are from the <a href="https://pbs.twimg.com/media/DoIqABUXgAAj
 <div align="center">
   <img src="https://github.com/user-attachments/assets/445c1958-4627-4e05-a159-dd15f2420890" alt="Ribbon Filter" style="width:75%;">
 </div>
-<br><br>
+<br></br>
 
 
 - The line chart graph delves into the distribution of basic education among adults aged 15 and above across various regions, highlighting both progress and persistent disparities. Despite global advancements in educational access, significant challenges remain. These educational deficiencies during youth often translate into lower educational attainment in adulthood, perpetuating cycles of poverty and limiting economic opportunities. Moreover, the impact of climate change has exacerbated these challenges; in 2024 alone, extreme weather events disrupted the education of at least 242 million children across 85 countries, predominantly in low-income nations in Asia and sub-Saharan Africa.  By analyzing historical trends and regional data, this section aims to provide a comprehensive understanding of where educational initiatives have succeeded and where intensified efforts are needed to ensure that all adults possess fundamental educational skills.
 
-<br>
+<br></br>
 
 ---
 
