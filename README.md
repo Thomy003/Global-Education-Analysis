@@ -62,10 +62,16 @@ Below the ribbon, the first section provides **key insights into global educatio
 * The top KPI shows the Learning Adjusted Years of School (LAYS) during 2020, a measure that combines the quantity and quality of education across countries, in which there is a trend where poor or less developed countries have lower LAYS, between 2 and 6 points, whereas richer and more developed countries have LAYS above 10 points. For example, the bottom countries with less AYS points are Liberia (2.2), followed by South Sudan (2.5), Mali (2.6), Central African Republic, Niger (2.7) and Chad (2.8). On the other hand the top countries are Singapore (12.8), followed by Hong Kong (11.9), Canada, Estonia, Finland, Japan and South Korea (11.7). Across most countries in South Asia and Sub-Saharan Africa – where the largest share of children live – the average years of quality schooling are less than 7.
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/8f90aa1c-864c-4e37-8a58-2947b95de875" alt="Image 1" style="width:40%; display:inline-block; margin:10px;">
+  <img src="https://github.com/user-attachments/assets/efcf329c-dec3-45ec-98ca-546d4fb6017f" alt="Image 2" style="width:40%; display:inline-block; margin:10px;">
+</div>
+<br><br>
+
+<div align="center">
   <img src="https://github.com/user-attachments/assets/8f90aa1c-864c-4e37-8a58-2947b95de875" alt="Ribbon Filter">
   <img src="https://github.com/user-attachments/assets/efcf329c-dec3-45ec-98ca-546d4fb6017f" alt="Ribbon Filter">
 </div>
-
+<br><br>
 
 * The pie chart below, represents the percentage of Adult people (+15 years old) with some basic education in 2020, we can also see a similar trend where rich countries with high LAYS have bigger rates of population with basic education. Nevertheless, in recent years the amount of people with basic education is about 9 of 10 people, which has been a great increase compared to past results where only 1 out of 5 could get basic education.
 
@@ -111,7 +117,7 @@ The regions given are from the <a href="https://pbs.twimg.com/media/DoIqABUXgAAj
 <br><br>
 <br><br>
 
-## CONCLUSION
+## 🎯 CONCLUSION
 This analysis highlights significant progress in global education while identifying persistent disparities. Key findings include:
 
 * Education access has improved significantly, with rising enrollment rates and a closing gender gap.
