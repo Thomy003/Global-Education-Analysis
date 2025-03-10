@@ -14,6 +14,7 @@ In many low-income countries, a large percentage of students complete primary sc
 On the following analysis we will emerge into a deeper analysis of Global Education, so get ready for the journey 🚀📊.
 
 <br>
+
 ---
 
 ## **OBJECTIVE**
@@ -22,6 +23,7 @@ The objective of this analysis is to examine a dataset containing global educati
 You can find the detailed information about the dataset at <a href="https://www.kaggle.com/datasets/imtkaggleteam/global-education">Kaggle</a>, which sources are <a href=https://data.worldbank.org/>World Bank Open Data</a> and <a href="https://databrowser.uis.unesco.org/">Unesco</a>.
 
 <br>
+
 ---
  
 ## **DATASETS**
@@ -42,6 +44,7 @@ This dataset reports the number of children who are not enrolled in primary or s
 This dataset tracks enrollment across different education levels based on gender.
 
 <br>
+
 ---
  
 ## ANALYSIS
@@ -126,6 +129,7 @@ The regions given are from the <a href="https://pbs.twimg.com/media/DoIqABUXgAAj
 - The line chart graph delves into the distribution of basic education among adults aged 15 and above across various regions, highlighting both progress and persistent disparities. Despite global advancements in educational access, significant challenges remain. These educational deficiencies during youth often translate into lower educational attainment in adulthood, perpetuating cycles of poverty and limiting economic opportunities. Moreover, the impact of climate change has exacerbated these challenges; in 2024 alone, extreme weather events disrupted the education of at least 242 million children across 85 countries, predominantly in low-income nations in Asia and sub-Saharan Africa.  By analyzing historical trends and regional data, this section aims to provide a comprehensive understanding of where educational initiatives have succeeded and where intensified efforts are needed to ensure that all adults possess fundamental educational skills.
 
 <br>
+
 ---
 
 ## **🎯 CONCLUSION**
