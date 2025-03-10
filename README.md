@@ -67,12 +67,6 @@ Below the ribbon, the first section provides **key insights into global educatio
 </div>
 <br><br>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/8f90aa1c-864c-4e37-8a58-2947b95de875" alt="Ribbon Filter">
-  <img src="https://github.com/user-attachments/assets/efcf329c-dec3-45ec-98ca-546d4fb6017f" alt="Ribbon Filter">
-</div>
-<br><br>
-
 * The pie chart below, represents the percentage of Adult people (+15 years old) with some basic education in 2020, we can also see a similar trend where rich countries with high LAYS have bigger rates of population with basic education. Nevertheless, in recent years the amount of people with basic education is about 9 of 10 people, which has been a great increase compared to past results where only 1 out of 5 could get basic education.
 
 <div align="center">
