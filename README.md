@@ -5,9 +5,9 @@
 ---
 
 ## **INTRODUCTION**
-Education is a fundamental right that everyone should have access to. It enables individuals to build their futures, achieve their goals, and connect with the world. However, many people, particularly in low-income regions and among certain demographics, still lack access to quality education. These disparities, based on income and even gender, prevent progress toward a more equitable education system.
+Education is a **fundamental right** that everyone should have access to. It enables individuals to **build their futures, achieve their goals, and connect with the world**. However, many people, particularly in low-income regions and among certain demographics, still lack access to quality education. These **disparities, based on income and even gender, prevent progress toward a more equitable education system**.
 
-Over the centuries, education has evolved significantly. What was once a privilege reserved for the few is now considered essential for most. This shift is evident in the increasing number of students enrolling in schools and rising global literacy rates. However, mere enrollment is not enough; the quality of education matters just as much.
+Over the centuries, education has evolved significantly. What was once a privilege reserved for the few is now considered essential for most. This shift is evident in the increasing number of students enrolling in schools and rising global literacy rates. However, mere enrollment is not enough; **the quality of education matters just as much**.
 
 In many low-income countries, a large percentage of students complete primary school without acquiring fundamental literacy and numeracy skills. This educational deficiency limits their potential and perpetuates cycles of poverty. Addressing these disparities is crucial to ensuring that education serves as a powerful tool for positive change.
 
@@ -18,7 +18,7 @@ On the following analysis we will emerge into a deeper analysis of Global Educat
 ---
 
 ## **OBJECTIVE**
-The objective of this analysis is to examine a dataset containing global education information. The goal is to gain insights into how well current education systems provide access to learning opportunities for all. This analysis will help identify areas for improvement and better understand the global state of education.
+The objective of this analysis is to **examine a dataset containing global education information**. The goal is to **gain insights** into how well current education systems provide access to learning opportunities for all. This analysis will help identify areas for improvement and better understand the global state of education.
 
 You can find the detailed information about the dataset at <a href="https://www.kaggle.com/datasets/imtkaggleteam/global-education">Kaggle</a>, which sources are <a href=https://data.worldbank.org/>World Bank Open Data</a> and <a href="https://databrowser.uis.unesco.org/">Unesco</a>.
 
